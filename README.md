@@ -1,3 +1,4 @@
 # practica1
 practica 1 de GitHup
-hola primera linesagi
+hola primera linea
+hola segunda linea
